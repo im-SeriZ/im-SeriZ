@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @im-SeriZ
 - 👀 I’m interested in : Coding | C#
-- 🌱 I’m currently learning  c# | c++ | java
+- 🌱 I’m currently learning  c# | c++ | Python
 - 💞️ I’m looking to collaborate on : LA | C#
 - 📫 How to reach me : seriz.code@gmail.com
 - ⚡ Fun fact: im a noob
